@@ -1,20 +1,28 @@
 [
-  "Aucune",
-  "Insee",
-  "SSP/SRISE - Agriculture et alimentation",
-  "DESL - Collectivités locales",
-  "DSECE - Commerce extérieur",
-  "DEPS - Culture",
-  "S2E - Défense",
-  "SDES - Énergie, logement, transport, environnement",
-  "DEPP - Éducation",
-  "SIES - Enseignement supérieur, recherche",
-  "PSP - Finances publiques",
-  "SDESSI - Fonction publique",
-  "DSED - Immigration",
-  "MEDES - Jeunesse et sports",
-  "SSER - Justice",
-  "DREES - Santé et solidarités",
-  "SSMSI - Sécurité intérieure",
-  "DARES - Travail"
+  {
+    "name": "Insee",
+    "options": ["Insee"]
+  },
+  {
+    "name": "Services statistiques ministériels",
+    "options": [
+      "SSP/SRISE - Agriculture et alimentation",
+      "DESL - Collectivités locales",
+      "DSECE - Commerce extérieur",
+      "DEPS - Culture",
+      "S2E - Défense",
+      "SDES - Énergie, logement, transport, environnement",
+      "DEPP - Éducation",
+      "SIES - Enseignement supérieur, recherche",
+      "PSP - Finances publiques",
+      "SDESSI - Fonction publique",
+      "DSED - Immigration",
+      "MEDES - Jeunesse et sports",
+      "SSER - Justice",
+      "DREES - Santé et solidarités",
+      "SSMSI - Sécurité intérieure",
+      "DARES - Travail"
+    ]
+  },
+  { "name": "Autre", "options": ["Aucune", "Simple curieux"] }
 ]
